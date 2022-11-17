@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Mini Paint</string>
+    <string name="canvasContentDescription">This App is made by Ashwath. Use your fingures to draw and rotate the phone to clear</string>
+</resources>
